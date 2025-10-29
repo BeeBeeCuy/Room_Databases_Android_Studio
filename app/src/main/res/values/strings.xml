@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">post4_150</string>
+    <string name="data_kewarganegaraan_indonesia">Data Kewarganegaraan Indonesia:</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="status_pernikahan">Status Pernikahan :</string>
+    <string name="simpan_data">Simpan Data</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="daftar_warga_negara_nbelum_ada_data_warga_yang_tersimpan">Daftar Warga Negara:\nBelum ada data warga yang tersimpan.</string>
+    <string name="rw">RW</string>
+    <string name="rt">RT</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="desa">Desa</string>
+    <string name="nik">NIK</string>
+    <string name="kabupaten">Kabupaten</string>
+    <string name="jenis_kelamin">Jenis Kelamin:</string>
+</resources>
